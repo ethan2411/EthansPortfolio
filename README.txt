@@ -1,3 +1,6 @@
+This is a Website I have designed to reflect the projects that I have created.
+This Website contains personal projects that I have created as well as projects I have created throughout my undergraduate courses
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
