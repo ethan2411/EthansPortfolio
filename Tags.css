@@ -1,0 +1,111 @@
+.tag.python {
+    display: inline-block;
+    background-color: #0073c2;
+    color: #fff;
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 3px;
+    }
+    
+    .tag.python:hover {
+    background-color: #00477e;
+    cursor: pointer;
+    }
+    
+    .tag.sql {
+    display: inline-block;
+    background-color: #e11f1f;
+    color: #fff;
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 3px;
+    }
+    
+    .tag.sql:hover {
+    background-color: #8c0b0b;
+    cursor: pointer;
+    }
+    
+    .tag.excel {
+    display: inline-block;
+    background-color: #1f8a1f;
+    color: #fff;
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 3px;
+    }
+    
+    .tag.excel:hover {
+    background-color: #0b540b;
+    cursor: pointer;
+    }
+    
+    .tag.powerbi {
+    display: inline-block;
+    background-color: #f2c800;
+    color: #000;
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 3px;
+    }
+    
+    .tag.powerbi:hover {
+    background-color: #c1a400;
+    cursor: pointer;
+    }
+    
+    .tag.tableau {
+    display: inline-block;
+    background-color: #2d2c7f;
+    color: #fff;
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 3px;
+    }
+    
+    .tag.tableau:hover {
+    background-color: #1a1a4b;
+    cursor: pointer;
+    }
+    
+    .tag.r {
+    display: inline-block;
+    background-color: #ff6600;
+    color: #fff;
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 3px;
+    }
+    
+    .tag.r:hover {
+    background-color: #cc4d00;
+    cursor: pointer;
+    }
+
+    .tag.php {
+        display: inline-block;
+        background-color: #711ab8;
+        color: #fff;
+        font-size: 0.8rem;
+        padding: 0.2rem 0.5rem;
+        margin-right: 0.5rem;
+        margin-bottom: 0.5rem;
+        border-radius: 3px;
+        }
+        
+        .tag.php:hover {
+        background-color: #48067e;
+        cursor: pointer;
+        }
