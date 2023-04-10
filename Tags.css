@@ -61,6 +61,22 @@
     background-color: #c1a400;
     cursor: pointer;
     }
+
+    .tag.powerquery {
+        display: inline-block;
+        background-color: #e4b20f76;
+        color: #000;
+        font-size: 0.8rem;
+        padding: 0.2rem 0.5rem;
+        margin-right: 0.5rem;
+        margin-bottom: 0.5rem;
+        border-radius: 3px;
+        }
+        
+        .tag.powerquery:hover {
+        background-color: #b18a0ba9;
+        cursor: pointer;
+        }
     
     .tag.tableau {
     display: inline-block;
@@ -95,8 +111,24 @@
     }
 
     .tag.php {
+    display: inline-block;
+    background-color: #711ab8;
+    color: #fff;
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 3px;
+    }
+        
+    .tag.php:hover {
+    background-color: #48067e;
+    cursor: pointer;
+    }
+
+    .tag.html {
         display: inline-block;
-        background-color: #711ab8;
+        background-color: #890862;
         color: #fff;
         font-size: 0.8rem;
         padding: 0.2rem 0.5rem;
@@ -104,8 +136,8 @@
         margin-bottom: 0.5rem;
         border-radius: 3px;
         }
-        
-        .tag.php:hover {
-        background-color: #48067e;
+            
+        .tag.html:hover {
+        background-color: #5e0543;
         cursor: pointer;
         }
